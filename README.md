@@ -3,9 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 
-- [Introduction](#subheading-1)
+- [Introduction](#Introduction)
 - [Goals and Audience](#goals-and-audience)
 - [Daily Breakdown](#daily-breakdown)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
