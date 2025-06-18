@@ -41,6 +41,7 @@ The daily modules cover essential and advanced topics, including:
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`LEARN.md`](./LEARN.md).
 
+ <a id="goals-and-audience"></a>
 ## 🎯 Goals and Audience
 
 ### 📌 Goals
