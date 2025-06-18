@@ -21,6 +21,7 @@
   - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
 - [Contributing](#contributing)
 
+ <a id="introduction"></a>
 ## 📘 Introduction
 
 Welcome to the **90 Days of Cybersecurity** challenge!  
