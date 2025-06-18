@@ -5,7 +5,7 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#📘-Introduction)
 - [Goals and Audience](#goals-and-audience)
 - [Daily Breakdown](#daily-breakdown)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
